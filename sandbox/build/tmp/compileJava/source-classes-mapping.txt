@@ -1,2 +1,6 @@
+ru/stqa/rft/sandbox/Rectangle.java
+ ru.stqa.rft.sandbox.Rectangle
 ru/stqa/rft/sandbox/MyFirstProgram.java
  ru.stqa.rft.sandbox.MyFirstProgram
+ru/stqa/rft/sandbox/Square.java
+ ru.stqa.rft.sandbox.Square
